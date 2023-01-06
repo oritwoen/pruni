@@ -8,6 +8,10 @@
 <a href="https://www.npmjs.com/package/pruni" target="_blank"><img src="https://img.shields.io/npm/v/pruni?style=flat&colorA=130f40&colorB=474787" alt="npm version"></a>
 <a href="https://www.npmjs.com/package/pruni" target="_blank"><img src="https://img.shields.io/bundlephobia/min/pruni?style=flat&colorA=130f40&colorB=474787" alt="npm size"></a>
 <a href="https://www.npmjs.com/package/pruni" target="_blank"><img src="https://img.shields.io/npm/dm/pruni?flat&colorA=130f40&colorB=474787" alt="npm downloads"></a>
+<a href="https://www.npmjs.com/package/pruni" target="_blank"><img src="https://img.shields.io/github/license/oritwoen/pruni?style=flat&colorA=130f40&colorB=474787" alt="license"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/oritwoen/pruni" target="_blank"><img src="https://img.shields.io/github/stars/oritwoen/pruni?flat&colorA=130f40&colorB=474787" lt="github stars"></a>
 <a href="https://discord.gg/akdvWVDtht" target="_blank"><img src="https://img.shields.io/discord/1022205291317694525?flat&colorA=130f40&colorB=474787" lt="discord channel"></a>
 </p>
